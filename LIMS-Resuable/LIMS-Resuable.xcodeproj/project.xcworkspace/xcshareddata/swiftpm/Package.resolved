@@ -1,0 +1,24 @@
+{
+  "originHash" : "ed836b5dabf996e2382c95f710fab9f43ae1713cc6c0992a78c26a1198222ceb",
+  "pins" : [
+    {
+      "identity" : "cluster",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/efremidze/Cluster",
+      "state" : {
+        "revision" : "3c70568c779456355895adf354a01e7fe5440ebf",
+        "version" : "3.0.3"
+      }
+    },
+    {
+      "identity" : "sqlite.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stephencelis/SQLite.swift.git",
+      "state" : {
+        "revision" : "a95fc6df17d108bd99210db5e8a9bac90fe984b8",
+        "version" : "0.15.3"
+      }
+    }
+  ],
+  "version" : 3
+}
